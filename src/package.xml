@@ -98,6 +98,7 @@
         <members>Action_Labels_Template_label_header</members>
         <members>Action_Labels_Template_modified_date_header</members>
         <members>Action_Labels_Template_name_header</members>
+        <members>Action_Messages_Delete_file</members>
         <members>Action_Messages_Delete_folder</members>
         <members>Action_Messages_No_permission_set</members>
         <members>Action_Messages_No_templates</members>
